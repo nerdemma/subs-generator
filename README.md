@@ -27,4 +27,6 @@ El script utiliza las siguientes librerías:
    ```bash
    git clone [https://github.com/nerdemma/subs-generator.git](https://github.com/nerdemma/subs-generator.git)
    cd subs-generator
+### Utilidad para DVD Players antiguos o descontinuados
+La mayoría de los reproductores multimedia previos a 2010 no disponen de formato compatible con MP4; usan formatos mpeg, por lo que **generar_para_dvdp.sh** es una utilidad para convertir de mp4 a mpeg compatible con los dispositivos multimedia. Tiene la ventaja de poder fusionar los subtítulos en los fotogramas y de incluir una barra de progreso.
 
