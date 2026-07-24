@@ -25,6 +25,6 @@ El script utiliza las siguientes librerías:
 
 1. **Clonar el repositorio (o descargar los archivos):**
    ```bash
-   git clone [https://github.com/tu-usuario/subs-generator.git](https://github.com/nerdemma/subs-generator.git)
+   git clone [https://github.com/nerdemma/subs-generator.git](https://github.com/nerdemma/subs-generator.git)
    cd subs-generator
 
