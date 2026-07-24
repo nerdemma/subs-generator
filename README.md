@@ -1,11 +1,10 @@
 # 🎬 Subs-Generator
 
 
-[Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
+![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
 ![FFmpeg Required](https://img.shields.io/badge/FFmpeg-Required-red.svg)
 ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey)
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-
+![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
 
 
 Un script en Python diseñado para automatizar la generación y traducción de subtítulos a partir de archivos de video de forma local.
